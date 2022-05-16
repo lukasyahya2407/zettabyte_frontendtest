@@ -1,0 +1,45 @@
+body {
+    background: #f1eee9;
+    font-family: "Roboto", sans-serif;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+img.author-img {
+    height: 45px;
+    width: 45px;
+    border-radius: 45px;
+}
+
+.author-img--small {
+    height: 30px;
+    width: 30px;
+}
+
+.post_content img {
+    max-width: 100%;
+}
+
+.post_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section_comment {
+    background: #eeeeee;
+}
+
+.post_comment {
+    border-radius: 5px;
+    padding: 15px;
+}
+
+button {
+    margin-left: 70px;
+}
